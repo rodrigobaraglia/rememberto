@@ -1,0 +1,17 @@
+.taskCard {
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue;
+  border-radius: 6px;
+  width: 95%;
+  box-shadow: 3px 3px 4px 3px rgb(145, 107, 102);
+  margin-top: 1vh;
+}
+.actionButtons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+
+}

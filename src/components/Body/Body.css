@@ -1,0 +1,9 @@
+#bodyContainer {
+    background-color: #E0E2DB;
+    display: flex;
+    justify-self: center;
+    justify-content: space-around;
+    height: 100%;
+    max-width: 100%; 
+   
+} 

@@ -1,0 +1,27 @@
+#headerContainer {
+  background-color: #b8bdb5;
+  display: flex;
+  flex-grow: 1;
+  align-self: flex-start;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+  width: 100%;
+ 
+}
+
+#headerTitle {
+  width: 80vw;
+  flex-grow: 80;
+}
+#headerDropDown {
+  width: 10vw;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-self: flex-end;
+  align-self: center;
+ 
+}

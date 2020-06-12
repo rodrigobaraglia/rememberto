@@ -1,0 +1,12 @@
+#footerContainer {
+    background-color:#D2D4C8;
+    /* border-style: solid;
+    border-color: black;
+    border-width: 2px; */
+    width: 100%;
+    display: flex;
+    align-self: flex-end;
+ 
+    
+  
+}
